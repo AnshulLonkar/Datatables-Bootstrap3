@@ -11,6 +11,6 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "datatables": "1_9"
+    "datatables": "1.10.2"
   }
 }
